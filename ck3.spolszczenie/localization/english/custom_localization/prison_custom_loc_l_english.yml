@@ -1,0 +1,11 @@
+﻿l_english:
+ #PrisonType
+#prisontype_dungeon:0 "dungeon"
+ prisontype_dungeon:0 "loch"
+#prisontype_house_arrest:0 "house arrest"
+ prisontype_house_arrest:0 "areszt domowy"
+ #PrisonTypeCell
+#prisontypecell_dungeon_cell:0 "dungeon cell"
+ prisontypecell_dungeon_cell:0 "komórka lochu"
+#prisontypecell_house_arrest:0 "house arrest"
+ prisontypecell_house_arrest:0 "areszt domowy"

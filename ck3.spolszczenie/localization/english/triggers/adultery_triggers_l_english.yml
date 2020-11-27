@@ -1,0 +1,7 @@
+﻿l_english:
+#TARGET_IS_NOT_OF_MY_HOUSE:0 "[TARGET_CHARACTER.GetShortUIName|U] is not a [bastard|E] of your [house|E]"
+ TARGET_IS_NOT_OF_MY_HOUSE:0 "[TARGET_CHARACTER.GetShortUIName|U] nie jest [Concept( 'bastard', 'bękartem' )|E] z twojego [Concept( 'house', 'rodu' )|E]"
+#HOUSE_HEAD_DOES_NOT_APPROVE:0 "Your [house_head|E], [CHARACTER.GetShortUIName], does not approve this legitimization"
+ HOUSE_HEAD_DOES_NOT_APPROVE:0 "Twoja [house_head|E], [CHARACTER.GetShortUIName], nie pochwala tej legitymizacji"
+#MOTHER_IS_MARRIED:0 "[TARGET_CHARACTER.GetShortUIName|U] is married, and would never admit to indiscretions"
+ MOTHER_IS_MARRIED:0 "[TARGET_CHARACTER.GetShortUIName|U] jest w związku małżeńskim i nigdy nie przyzna się do niedyskrecji"

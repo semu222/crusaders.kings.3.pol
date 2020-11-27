@@ -1,0 +1,62 @@
+﻿l_english:
+ innovation_hird:0 "Hirds"
+ innovation_hird_desc:0 "Tradycja utrzymywania uzbrojonych siatkówek w służbie domowej dobrze nam służyła. Formalizując i rozbudowując ten system, możemy wystawić całe pułki mężów w naszych armiach."
+ innovation_zweihanders:0 "Zweihanders"
+ innovation_zweihanders_desc:0 "Te masywne dwuręczne miecze są tak samo biegły w obcinaniu ładunków $knight_culture_player_plural_no_tooltip_lowercase$ jak w rozbijaniu formacji wroga szczupaka, czyniąc z nich wspaniały dodatek do naszych własnych pułków szczupakowych".
+ innovation_longbows:0 "Długi łuk"
+ innovation_longbows_desc:0 "Korzystając z rosnącego tu twardego Cisu, nasi łucznicy nauczyli się wykonywać długie łuki tak mocne, że wymagają od najmłodszych lat specjalistycznego treningu, aby skutecznie je wykorzystywać. Inwestycja ta jest tego warta, gdyż nasi łucznicy potrafią strzelać strzałami, które mają dalszy zasięg i lepszą penetracje niż te wystrzeliwane przez innych łuczników".
+ innovation_adaptive_militia:0 "Adaptive Militia".
+ innovation_adaptive_militia_desc:0 "Broń taka jak goedendag jest tania i łatwa w produkcji, ale zaskakująco skuteczna w walce z szarżami kawalerii. Ich istnienie pozwala nam dostosować naszą milicję do znacznie większych szans w walce pancernej $knight_culture_player_plural_no_tooltip_lowercase$".
+ innovation_valets:0 "Valets"
+ innovation_valets_desc:0 "Stworzenie systemu valetów z oddanymi służbami dla naszych szlachetnych jeźdźców pozwoli nam wystawić $knight_culture_player_plural_no_tooltip_lowercase$, którzy są lepiej uzbrojeni i opancerzeni."
+ innovation_pike_columns:0 "Pike Columns"
+ innovation_pike_columns_desc:0 "Pikinierzy zawsze byli silnymi obrońcami, ale historycznie brakowało im mobilności i ataku. Opracowanie nowych formacji, które zniwelują te braki, zwiększają nasze szanse na zwycięstwo w walce".
+ innovation_legionnaires:0 "Legioniści"
+ innovation_legionnaires_desc:0 "Tak jak przywróciliśmy Cesarstwo Rzymskie, tak i my przywrócimy strukturę starego legionu rzymskiego i jego przestraszonych elitarnych wojsk!"
+ innovation_desert_tactics:0 "Desert Tactics"
+ innovation_desert_tactics_desc:0 "Lewant jest nieznanym miejscem o słabym ukształtowaniu terenu dla szwoleżerów kawalerii. Powinniśmy przystosować się do tych terenów i kawalerii polowej, która lepiej nadaje się do walki w naszym nowym domu."
+ innovation_caballeros:0 "Caballeros"
+ innovation_caballeros_desc:0 "Andaluzyjskie ogiery są lepsze w podróżowaniu i walce w trudnym terenie niż inne rasy koni. Możemy trenować wyspecjalizowane pułki kawalerii, które z tego skorzystają."
+ innovation_cataphracts:0 "Katafrakci"
+ innovation_cataphracts_desc:0 "Nasza zastraszająca kawaleria katafraktyczna, w pełni zamknięta w żelaznych kombinezonach ochronnych, może złamać prawie każdą linię obrony, szarżując w nią swoimi lancami."
+ innovation_hobbies:0 "Hobbies"
+ innovation_hobbies_desc:0 "Jeźdźcy na naszych celtyckich koniach hobbystycznych są zarówno szybcy, jak i zwinni - idealni do harcerstwa i rajdów w trudnym terenie, gdzie wróg $knight_culture_player_plural_no_tooltip_lowercase$ jest odrażający."
+ innovation_rectilinear_schiltron:0 "Rectilinear Schiltron"
+ innovation_rectilinear_schiltron_desc:0 "Tradycyjny krąg szczupaka jest potężną formacją obronną, ale jest ograniczony w ofensywie i mobilności. Mimo, że wymaga dużej dyscypliny, nasz prostoliniowy schiltron jest doskonałą formacją, która jest zdolna zarówno do potężnej taktyki ofensywnej jak i defensywnej".
+ innovation_forest_wardens:0 "Forest Wardens"
+ innovation_forest_wardens_desc:0 "Nasi przodkowie żyli w tych lasach od pokoleń, ale teraz są zagrożeni przez osoby z zewnątrz. Wieki doświadczeń zdobytych w walce w lasach pomogą nam chronić naszą ojczyznę."
+ innovation_compound_bows:0 "Łuki bloczkowe"
+ innovation_compound_bows_desc:0 "Wykonane z laminowanych pasów rogu, drewna i ścięgna, nasze złożone łuki są znacznie mniejsze niż tradycyjne łuki, a jednocześnie równie mocne. Ten zredukowany profil umożliwia komfortowe strzelanie z końskiego grzbietu, pozwalając nam na prawdziwie druzgocące pole walki z końmi łuczników".
+ innowacja_khandayats:0 "Khandayats"
+ innovation_khandayats_desc:0 "Umiejętni w posługiwaniu się szerokim hasłem khanda, nasi cenieni piechurnicy są biegli zarówno w walce w dżungli, jak i w tępieniu wrogiej lekkiej kawalerii."
+ innovation_mubarizuns:0 "Mubarizun"
+ innovation_mubarizuns_desc:0 "Wzorowani na legendarnych mistrzach armii Rashidunów, nasi żołnierze Mubarizunów są szkoleni, aby doskonalić się zarówno w walce formacyjnej, jak i pojedynczej".
+ innovation_hussar_raids:0 "Raids $hussar$"
+ innovation_hussar_raids_desc:0 "Lekka kawaleria, która może szybko uderzyć w odsłoniętych wrogów, zanim odleci, nasz $hussar$ może zostać uformowany w pułki, które specjalizują się w nękaniu i rajdowaniu."
+ innovation_druzhina:0 "Drużyna"
+ innovation_druzhina_desc:0 "Żołnierze wariańscy od dawna służyli jako imponujący ochroniarze naszych monarchów, ale mogą równie łatwo służyć jak oddana ciężka piechota w naszych armiach."
+ innovation_mountain_skirmishing:0 "Mountain Skirmishing"
+ innovation_mountain_skirmishing_desc:0 "Wielkie góry w Rogu Afryki stanowią wyzwanie logistyczne dla wielu rodzajów armii, ale nasi skirmisze mogą łatwo przystosować się do tych warunków, aby ścigać najeźdźców wroga".
+ innovation_bush_hunting:0 "Bush Hunting"
+ innovation_bush_hunting_desc:0 "Krzak jest szorstkim i wytrzymałym miejscem, ale oferuje mnóstwo możliwości dla tych, którzy wiedzą, gdzie szukać i jak go wykorzystać. Szkolenie naszych łuczników w tych technikach da im przewagę przy angażowaniu wrogów w tych dziedzinach."
+ innovation_mobile_guards:0 "Defensive Tactics"
+ innovation_mobile_guards_desc:0 "Nasi ludzie byli wygnani i wygnani raz za razem. Doświadczenia te, choć tragiczne, doprowadziły nas do tego, że staliśmy się wyjątkowo uzdolnieni w taktyce tylnej straży, która minimalizuje liczbę ofiar".
+ innovation_alpine_supremacy:0 "Alpine Supremacy"
+ innovation_alpine_supremacy_desc:0 "Wysoka wysokość naszej ojczyzny wymaga od naszych żołnierzy innej logistyki i technik walki niż niziny. Opanowanie tych umiejętności uczyni nas niekwestionowanymi władcami gór."
+ innovation_sahel_horsemen:0 "Sahelscy jeźdźcy"
+ innovation_sahel_horsemen_desc:0 "Sahel jest suchą i jałową równiną, na której często pokonuje się ogromne odległości z końmi. Jeźdźcy Sahelu są wojownikami konnymi, którzy używają lekkiej pikowanej zbroi i oszczepów, aby zniszczyć swoich wrogów. Są szybcy i mogą łatwo odważać się na pustynie i suche tereny."
+ innowacja_zbrojnosh:0 "Zbrojnosh"
+ innovation_zbrojnosh_desc:0 "Leśne wzgórza i góry naszej ojczyzny wymagają innego podejścia do prowadzenia wojny. Nasi uzbrojeni ludzie, Zbrojnosh, są szkoleni do obracania terenu na swoją korzyść i udowodnili, że są dobrymi wojownikami zdolnymi do pokonania znacznie większych armii".
+ innovation_upland_skirmishing:0 "Upland Skirmishing"
+ innovation_upland_skirmishing_desc:0 "The pagórek the zalesiona sawanna być nasz ojczyzna dla pokolenie. Nasi przodkowie pokazali nam, jak wykorzystać ten teren, a wraz z najeźdźcami zagrażającymi naszym granicom, możemy wykorzystać tę wiedzę w naszej obronie".
+ innovation_sarawit:0 "Sarawit"
+ innovation_sarawit_desc:0 "Wyżyna, na której osiedlili się nasi przodkowie, wymaga szczególnego podejścia do rolnictwa. Budowa pól tarasowych nauczyła nas opracowywać nowe taktyki wojskowe, które są stosowane przez naszych żołnierzy Serawita".
+ innovation_desert_mountain_herding:0 "Desert Mountain Practices"
+ innovation_desert_mountain_herding_desc:0 "Od czasów starożytnych ludzie naszych gór szukali metod hodowania swoich stad w niegościnnym terenie. To uczyniło z nich bardzo wytrzymałych i silnych wojowników, zwanych Abudrar".
+ innovation_royal_army_tradition:0 "Royal Army Tradition"
+ innovation_royal_army_tradition_desc:0 "Mamy długą tradycję stałej armii stworzonej po to, by chronić stolicę. Dało nam to dostęp do twardych żołnierzy, którzy doskonale radzą sobie z oddziałami pomocniczymi, takimi jak Słonie Wojenne".
+ innovation_repeating_crossbow:0 "Chu-ko-nu"
+ innovation_repeating_crossbow_desc:0 "Kusza samopowtarzalna, znana jako Chu-ko-nu, jest genialnym wynalazkiem z łatwym w obsłudze mechanizmem, który może być obsługiwany przez każdego. Brak jej zasięgu i siły ognia co sprawia, że jest to idealna broń do pozycji obronnych".
+ innovation_men_at_arms:0 "Zbrojni"
+ innovation_men_at_arms_desc:0 "Szkolenie i wyposażanie stojących armii, które pozostaną do bezpośredniej dyspozycji naszych władców, będzie krokiem na drodze do scentralizowania naszej władzy."
+ 

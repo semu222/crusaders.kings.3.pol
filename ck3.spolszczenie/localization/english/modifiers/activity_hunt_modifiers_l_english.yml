@@ -1,0 +1,121 @@
+﻿l_english:
+#held_hunt_modifier:0 "Hunted Recently"
+ held_hunt_modifier:0 "Niedawno polowano"
+#held_hunt_modifier_desc:0 "This character has recently arranged a Hunt, and may not do so again until the specified date."
+ held_hunt_modifier_desc:0 "Ta postać niedawno zaaranżowała polowanie i może to zrobić dopiero w wyznaczonym terminie."
+ 
+#hunt_punished_locals_modifier:0 "Punished Poachers"
+ hunt_punished_locals_modifier:0 "Cierpią przez kłusowników"
+#hunt_punished_locals_modifier_desc:0 "People in this County bear the burden of making up for poachers in the forests."
+ hunt_punished_locals_modifier_desc:0 "Mieszkańcy tego hrabstwa ponoszą ciężar odrabiania strat spowodowanych przez kłusowników w lasach."
+ 
+#hunt_poacher_training_modifier:0 "Poacher Training"
+ hunt_poacher_training_modifier:0 "Szkolenie kłusowników"
+#hunt_poacher_training_modifier_desc:0 "This character has been trained by poachers to hunt."
+ hunt_poacher_training_modifier_desc:0 "Ta postać została wyszkolona przez kłusowników do polowania."
+ 
+#hunt_upset_hunting_county_modifier:0 "Poaching Outrage"
+ hunt_upset_hunting_county_modifier:0 "Skandal kłusowniczy"
+#hunt_upset_hunting_county_modifier_desc:0 "This County is upset over the way it has been treated for the actions of a handful of poachers"
+ hunt_upset_hunting_county_modifier_desc:0 "To hrabstwo jest zdenerwowane sposobem, w jaki zostało potraktowane za działania garstki kłusowników."
+
+#modifier_hunt_hunting_trophy:0 "Hunting Trophy"
+ modifier_hunt_hunting_trophy:0 "Trofeum myśliwskie"
+#modifier_hunt_hunting_trophy_desc:0 "An impressive hunting trophy hangs in this character's great hall, showing off their achievements."
+ modifier_hunt_hunting_trophy_desc:0 "W wielkiej sali tej postaci wisi imponujące trofeum myśliwskie, prezentujące jej osiągnięcia."
+ 
+#modifier_hunt_friend_of_animal:0 "Friend of Animals"
+ modifier_hunt_friend_of_animal:0 "Przyjaciel zwierząt"
+#modifier_hunt_friend_of_animal_desc:0 "This character has an uncanny ability to handle animals."
+ modifier_hunt_friend_of_animal_desc:0 "Ta postać ma niesamowitą zdolność do radzenia sobie ze zwierzętami."
+ 
+#hunt_guide_local_madman_modifier:0 "Local Guide"
+ hunt_guide_local_madman_modifier:0 "Lokalny przewodnik"
+
+ hunt_killed_local_madman_modifier:1 "Killed Local"
+ 
+ hunt_talked_to_madman_modifier:1 "Listened to Local Concerns"
+
+#hunt_peasants_denied_forest_modifier:0 "Peasants Denied Forest"
+ hunt_peasants_denied_forest_modifier:0 "Odmówiono chłopom dostępu do lasu"
+#hunt_peasants_denied_forest_modifier_desc:0 "The peasants of this County have been denied the right to forage in the forests."
+ hunt_peasants_denied_forest_modifier_desc:0 "Chłopi z tego hrabstwa nie mają prawa wstępować do lasów."
+
+#hunt_peasants_hunted_modifier:0 "Hunted Peasants"
+ hunt_peasants_hunted_modifier:0 "Chłopi zwierzyną"
+#hunt_peasants_hunted_modifier_desc:0 "Peasants are afraid of settling in this County, due to the unspeakable things that have happened here."
+ hunt_peasants_hunted_modifier_desc:0 "Chłopi boją się osiedlać w tym hrabstwie z powodu niewyobrażalnych rzeczy, które tu się wydarzyły."
+
+#hunt_aided_peasants_modifier:0 "Aided Peasants"
+ hunt_aided_peasants_modifier:0 "Pomoc dla chłopów"
+#hunt_aided_peasants_modifier_desc:0 "The poorest people of this County have received significant charitable aid."
+ hunt_aided_peasants_modifier_desc:0 "Najbiedniejsi ludzie w tym hrabstwie otrzymali znaczącą pomoc."
+
+#hunt_fresh_air_and_exercise_modifier:0 "Fresh Air and Exercise"
+ hunt_fresh_air_and_exercise_modifier:0 "Świeże powietrze i ćwiczenia"
+#hunt_fresh_air_and_exercise_modifier_desc:0 "This character has enjoyed rigorous exercise during their hunts."
+ hunt_fresh_air_and_exercise_modifier_desc:0 "Ta postać cieszyła się rygorystycznymi ćwiczeniami podczas polowań."
+
+#hunt_focused_attention_modifier:0 "Focused Attention"
+ hunt_focused_attention_modifier:0 "Skoncentrowana uwaga"
+#hunt_focused_attention_modifier_desc:0 "This character knows how to focus on the things that demand immediate attention."
+ hunt_focused_attention_modifier_desc:0 "Ta postać wie, jak skupić się na rzeczach, które wymagają natychmiastowej uwagi."
+
+#modifier_hunt_dog_trophy_modifier:0 "Hunting Trophy"
+ modifier_hunt_dog_trophy_modifier:0 "Trofeum myśliwskie"
+#modifier_hunt_dog_trophy_modifier_desc:0 "An impressive hunting trophy hangs in this character's great hall, showing off their achievements."
+ modifier_hunt_dog_trophy_modifier_desc:0 "W wielkiej sali tej postaci wisi imponujące trofeum myśliwskie, prezentujące jej osiągnięcia."
+
+#modifier_hunt_dog_fighting_modifier:0 "Improved Prowess"
+ modifier_hunt_dog_fighting_modifier:0 "Lepsza sprawność"
+#modifier_hunt_dog_fighting_modifier_desc:0 "This character has perform an impressive feat of prowess during their hunts."
+ modifier_hunt_dog_fighting_modifier_desc:0 "Ta postać dokonała imponującego wyczynu w czasie polowań."
+
+#modifier_hunt_resisted_advances:0 "Resisted Advances"
+ modifier_hunt_resisted_advances:0 "Oparto się zalotom"
+#modifier_hunt_resisted_advances_desc:0 "This character has resisted the siren song of temptation."
+ modifier_hunt_resisted_advances_desc:0 "Ta postać oparła się kuszącej pieśni syreny."
+
+ hunt_mediated_fight_modifier:0 "Mediator"
+#hunt_mediated_fight_modifier_desc:0 "This character has successfully negotiated between two people in conflict– a valuable lesson."
+ hunt_mediated_fight_modifier_desc:0 "Ta postać z powodzeniem negocjowała między dwojgiem ludzi w konflikcie - była to cenna lekcja."
+
+#hunt_protected_peasants_modifier:0 "Protected Peasants"
+ hunt_protected_peasants_modifier:0 "Chronieni chłopi"
+#hunt_protected_peasants_modifier_desc:0 "The peasants of this county feel protected"
+ hunt_protected_peasants_modifier_desc:0 "Chłopi z tego hrabstwa czują się bezpiecznie."
+
+#hunt_disturbed_locals_modifier:0 "Disturbed Locals"
+ hunt_disturbed_locals_modifier:0 "Zdenerwowani mieszkańcy"
+#hunt_disturbed_locals_modifier_desc:0 "The locals in this county just wants to be left alone"
+ hunt_disturbed_locals_modifier_desc:0 "Miejscowi w tym hrabstwie chcą być po prostu pozostawieni sami sobie"
+
+#hunt_focused_effort_modifier:0 "Focused Hunting Effort"
+ hunt_focused_effort_modifier:0 "Skoncentrowany wysiłek myśliwych"
+#hunt_focused_effort_modifier_desc:0 "This character is very focused on the hunt"
+ hunt_focused_effort_modifier_desc:0 "Ta postać jest bardzo skupiona na polowaniu"
+
+#hunt_treated_injury_modifier:0 "Practiced Field Surgery"
+ hunt_treated_injury_modifier:0 "Praktyka medycyny polowej"
+#hunt_treated_injury_modifier_desc:0 "This character has some recent experience with very trying medical treatments"
+ hunt_treated_injury_modifier_desc:0 "Ta postać ma ostatnio pewne doświadczenia z bardzo trudnymi metodami leczenia"
+
+#hunt_tasted_the_belt_modifier:0 "Tasted the Belt"
+ hunt_tasted_the_belt_modifier:0 "Posmakowano pasa"
+#hunt_tasted_the_belt_modifier_desc:0 "This character is suffering from a bruised rear"
+ hunt_tasted_the_belt_modifier_desc:0 "Ta postać cierpi z powodu obitego tyłka"
+
+#hunt_treated_wound_modifier:0 "Dressed Wounds"
+ hunt_treated_wound_modifier:0 "Opatrzone rany"
+#hunt_treated_wound_modifier_desc:0 "This character's wounds have been seen to in some fashion"
+ hunt_treated_wound_modifier_desc:0 "W jakiś sposób zaobserwowano rany tej postaci"
+
+#hunt_chose_truth_modifier:0 "Humble Honesty"
+ hunt_chose_truth_modifier:0 "Pokorna szczerość"
+#hunt_chose_truth_modifier_desc:0 "This character has spoken the truth at the detriment of themselves"
+ hunt_chose_truth_modifier_desc:0 "Ta postać powiedziała prawdę ze szkodą dla siebie"
+
+#hunt_mystical_animal_modifier:0 "Hunted Mystical Animal"
+ hunt_mystical_animal_modifier:0 "Upolowano mistyczne zwierzę"
+#hunt_mystical_animal_modifier_desc:0 "This character hunted, and killed, a mystical white animal"
+ hunt_mystical_animal_modifier_desc:0 "Ta postać upolowała i zabiła mistyczne białe zwierzę"

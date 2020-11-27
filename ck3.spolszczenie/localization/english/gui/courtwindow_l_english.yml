@@ -1,0 +1,3 @@
+﻿l_english:
+#COURT:0 "Court of [CourtWindow.GetCharacter.GetUINameNoTooltip]"
+ COURT:0 "Dwór [CourtWindow.GetCharacter.GetUINameNoTooltip]"

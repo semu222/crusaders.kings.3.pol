@@ -1,0 +1,3 @@
+﻿l_english:
+ PICK_ANY_CHARACTER:4 "Graj dowolnym władcą w #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!, lub #bold stwórz własnego!#!"
+ GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Witamy w grze Crusader Kings III"

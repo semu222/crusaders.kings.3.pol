@@ -1,0 +1,11 @@
+﻿l_english:
+#kings:0 "kings"
+ kings:0 "królowie"
+#dukes:0 "dukes"
+ dukes:0 "książęta"
+#counts:0 "counts"
+ counts:0 "hrabiowie"
+#barons:0 "barons"
+ barons:0 "baroni"
+#peasants:0 "peasants"
+ peasants:0 "chłopi"
