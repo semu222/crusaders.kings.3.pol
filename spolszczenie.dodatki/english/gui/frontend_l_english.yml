@@ -1,0 +1,2 @@
+﻿l_english:
+ FRONTEND_CONTINUE_TT:1 "#T Kontynuuj z zapisu gry\n#!"[SaveGameItem.GetName]"\n[SaveGameItem.GetPlayerName|V]\n[SaveGameItem.GetTitleName|VU]\n[SaveGameItem.GetDate.GetString|V]\n[Select_CString( SaveGameItem.IsCloudSave, 'Cloud Save', '' )]"
